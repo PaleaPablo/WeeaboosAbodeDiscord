@@ -34,3 +34,21 @@
 /* Edited snippet from CompletelyUnbelievable's Original Theme*/
 .privateChannels-1nO12o .channel-2QD9_O .name-2WpE7M {opacity:0}
 /*End*/
+/*Additons henceforth are to deal with discord class changes, even if its ugly. Fuck it, no one uses my theme anyways*/
+.panels-j1Uci_,
+.privateChannels-1nO12o,
+.sidebar-2K8pFh,
+.scroller-2FKFPGI,
+.scrollerWrap-2lJEkd,
+.firefoxFixScrollFlex-cnI2ix,
+.da-scrollerWrap,
+.da-firefoxFixScrollFlex,
+.scrollerWrap-2su1QI,
+.scrollerThemed-2oenus,
+.da-scrollerThemed,
+.themedWithTrack-q8E3vB,
+.activityFeed-1C0EmJ, 
+.da-activityFeed {
+    background-color: transparent
+    
+}
