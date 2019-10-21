@@ -22,6 +22,9 @@
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .accountDetails-3k9g4n {visibility:visible;transition: all .5 ease}
 .accountDetails-3k9g4n {visibility:hidden;position:relative;right:10px}
 .name-2WpE7M {flex-grow:0}
+/* Edited snippet from CompletelyUnbelievable's Mini-theme */
+.privateChannels-1nO12o .channel-2QD9_O .name-2WpE7M {opacity:0}
+/*End*/
 .channels-Ie2l6A:hover .channel-2QD9_O .name-2WpE7M,
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .channel-2QD9_O .name-2WpE7M {opacity:.6;transition: opacity 2s ease}
 .channel-2QD9_O .avatar-small {height:35px;width:35px;background-size:35px}
@@ -31,9 +34,6 @@
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .channel-2QD9_O .wrapper-2F3Zv8 {left:0;transition:all .5s ease}
 .channels-Ie2l6A:hover .channel-2QD9_O .linkButtonIcon-Mlm5d6,
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .channel-2QD9_O .linkButtonIcon-Mlm5d6 {margin-left: 0;margin-right: 18px;}
-/* Edited snippet from CompletelyUnbelievable's Original Theme*/
-.privateChannels-1nO12o .channel-2QD9_O .name-2WpE7M {opacity:0}
-/*End*/
 /*Additons henceforth are to deal with discord class changes, even if its ugly. Fuck it, no one uses my theme anyways*/
 .panels-j1Uci_,
 .privateChannels-1nO12o,
